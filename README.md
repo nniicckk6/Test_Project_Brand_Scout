@@ -1,8 +1,12 @@
-# Brand Scout Quotes API
+# Brand Scout Quotes
 
 `
 Этот проект - тестовое задание от Бренд Скаут ИИ
 `
+
+<img width=90% alt="Картинка тестового задания" src="https://github.com/nniicckk6/Test_Project_Brand_Scout/blob/master/image_of_test.png?raw=true">
+
+
 
 REST API для хранения и управления цитатами. Поддерживает хранение в памяти или в базе данных SQLite.
 
